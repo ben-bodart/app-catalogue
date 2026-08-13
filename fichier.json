@@ -1,0 +1,27 @@
+[
+    {
+        "nom": "Mario Galaxy",
+        "console": "Nintendo Switch",
+        "genre": "Platerforme"
+    },
+    {
+        "nom": "Super Mario Odyssey",
+        "console": "Nintendo Switch",
+        "genre": "Plateforme"
+    },
+    {
+        "nom": "F-Zero",
+        "console": "Super Nintendo",
+        "genre": "Voiture"
+    },
+    {
+        "nom": "GTA V",
+        "console": "Playstation 4",
+        "genre": "RPG"
+    },
+    {
+        "nom": "Mario Sunshine",
+        "console": "Game Cube",
+        "genre": "Plateforme"
+    }
+]
