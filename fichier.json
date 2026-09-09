@@ -1,8 +1,8 @@
 [
     {
-        "nom": "Mario Galaxy",
+        "nom": "The Legend of Zelda: Breath of the Wild",
         "console": "Nintendo Switch",
-        "genre": "Platerforme"
+        "genre": "Action-Aventure"
     },
     {
         "nom": "Super Mario Odyssey",
@@ -10,18 +10,828 @@
         "genre": "Plateforme"
     },
     {
-        "nom": "F-Zero",
-        "console": "Super Nintendo",
-        "genre": "Voiture"
+        "nom": "Mario Kart 8 Deluxe",
+        "console": "Nintendo Switch",
+        "genre": "Course"
     },
     {
-        "nom": "GTA V",
-        "console": "Playstation 4",
+        "nom": "Animal Crossing: New Horizons",
+        "console": "Nintendo Switch",
+        "genre": "Simulation"
+    },
+    {
+        "nom": "Pokémon Épée",
+        "console": "Nintendo Switch",
         "genre": "RPG"
     },
     {
-        "nom": "Mario Sunshine",
-        "console": "Game Cube",
+        "nom": "Pokémon Bouclier",
+        "console": "Nintendo Switch",
+        "genre": "RPG"
+    },
+    {
+        "nom": "Splatoon 2",
+        "console": "Nintendo Switch",
+        "genre": "Tir"
+    },
+    {
+        "nom": "Super Smash Bros. Ultimate",
+        "console": "Nintendo Switch",
+        "genre": "Combat"
+    },
+    {
+        "nom": "Fire Emblem: Three Houses",
+        "console": "Nintendo Switch",
+        "genre": "Stratégie"
+    },
+    {
+        "nom": "Xenoblade Chronicles 2",
+        "console": "Nintendo Switch",
+        "genre": "RPG"
+    },
+    {
+        "nom": "Metroid Dread",
+        "console": "Nintendo Switch",
+        "genre": "Action-Aventure"
+    },
+    {
+        "nom": "Luigi's Mansion 3",
+        "console": "Nintendo Switch",
+        "genre": "Aventure"
+    },
+    {
+        "nom": "Paper Mario: The Origami King",
+        "console": "Nintendo Switch",
+        "genre": "RPG"
+    },
+    {
+        "nom": "Ring Fit Adventure",
+        "console": "Nintendo Switch",
+        "genre": "Fitness"
+    },
+    {
+        "nom": "Mario Tennis Aces",
+        "console": "Nintendo Switch",
+        "genre": "Sports"
+    },
+    {
+        "nom": "Arms",
+        "console": "Nintendo Switch",
+        "genre": "Combat"
+    },
+    {
+        "nom": "Astral Chain",
+        "console": "Nintendo Switch",
+        "genre": "Action"
+    },
+    {
+        "nom": "Daemon X Machina",
+        "console": "Nintendo Switch",
+        "genre": "Action"
+    },
+    {
+        "nom": "Fire Emblem Warriors",
+        "console": "Nintendo Switch",
+        "genre": "Action"
+    },
+    {
+        "nom": "Hyrule Warriors: Age of Calamity",
+        "console": "Nintendo Switch",
+        "genre": "Action"
+    },
+    {
+        "nom": "God of War Ragnarök",
+        "console": "PlayStation 5",
+        "genre": "Action-Aventure"
+    },
+    {
+        "nom": "Marvel's Spider-Man 2",
+        "console": "PlayStation 5",
+        "genre": "Action-Aventure"
+    },
+    {
+        "nom": "Horizon Forbidden West",
+        "console": "PlayStation 5",
+        "genre": "Action-Aventure"
+    },
+    {
+        "nom": "Gran Turismo 7",
+        "console": "PlayStation 5",
+        "genre": "Course"
+    },
+    {
+        "nom": "Ratchet & Clank: Rift Apart",
+        "console": "PlayStation 5",
         "genre": "Plateforme"
+    },
+    {
+        "nom": "Returnal",
+        "console": "PlayStation 5",
+        "genre": "Roguelike"
+    },
+    {
+        "nom": "Demon's Souls",
+        "console": "PlayStation 5",
+        "genre": "RPG"
+    },
+    {
+        "nom": "Final Fantasy XVI",
+        "console": "PlayStation 5",
+        "genre": "RPG"
+    },
+    {
+        "nom": "Forspoken",
+        "console": "PlayStation 5",
+        "genre": "RPG"
+    },
+    {
+        "nom": "Stray",
+        "console": "PlayStation 5",
+        "genre": "Aventure"
+    },
+    {
+        "nom": "Kena: Bridge of Spirits",
+        "console": "PlayStation 5",
+        "genre": "Action-Aventure"
+    },
+    {
+        "nom": "Ghostwire: Tokyo",
+        "console": "PlayStation 5",
+        "genre": "Action-Aventure"
+    },
+    {
+        "nom": "Deathloop",
+        "console": "PlayStation 5",
+        "genre": "FPS"
+    },
+    {
+        "nom": "Resident Evil Village",
+        "console": "PlayStation 5",
+        "genre": "Survival-Horreur"
+    },
+    {
+        "nom": "Elden Ring",
+        "console": "PlayStation 5",
+        "genre": "RPG"
+    },
+    {
+        "nom": "The Last of Us Part I",
+        "console": "PlayStation 5",
+        "genre": "Action-Aventure"
+    },
+    {
+        "nom": "Marvel's Spider-Man: Miles Morales",
+        "console": "PlayStation 5",
+        "genre": "Action-Aventure"
+    },
+    {
+        "nom": "FIFA 23",
+        "console": "PlayStation 5",
+        "genre": "Sports"
+    },
+    {
+        "nom": "Call of Duty: Modern Warfare II",
+        "console": "PlayStation 5",
+        "genre": "FPS"
+    },
+    {
+        "nom": "Assassin's Creed Valhalla",
+        "console": "PlayStation 5",
+        "genre": "RPG"
+    },
+    {
+        "nom": "Red Dead Redemption 2",
+        "console": "PlayStation 5",
+        "genre": "Action-Aventure"
+    },
+    {
+        "nom": "Cyberpunk 2077",
+        "console": "PlayStation 5",
+        "genre": "RPG"
+    },
+    {
+        "nom": "The Witcher 3: Wild Hunt",
+        "console": "PlayStation 5",
+        "genre": "RPG"
+    },
+    {
+        "nom": "Grand Theft Auto V",
+        "console": "PlayStation 5",
+        "genre": "Action-Aventure"
+    },
+    {
+        "nom": "Hogwarts Legacy",
+        "console": "PlayStation 5",
+        "genre": "RPG"
+    },
+    {
+        "nom": "Star Wars Jedi: Survivor",
+        "console": "PlayStation 5",
+        "genre": "Action-Aventure"
+    },
+    {
+        "nom": "Diablo IV",
+        "console": "PlayStation 5",
+        "genre": "RPG"
+    },
+    {
+        "nom": "Street Fighter 6",
+        "console": "PlayStation 5",
+        "genre": "Combat"
+    },
+    {
+        "nom": "Tekken 8",
+        "console": "PlayStation 5",
+        "genre": "Combat"
+    },
+    {
+        "nom": "Guilty Gear -Strive-",
+        "console": "PlayStation 5",
+        "genre": "Combat"
+    },
+    {
+        "nom": "Mortal Kombat 1",
+        "console": "PlayStation 5",
+        "genre": "Combat"
+    },
+    {
+        "nom": "Halo Infinite",
+        "console": "Xbox Series X",
+        "genre": "FPS"
+    },
+    {
+        "nom": "Forza Horizon 5",
+        "console": "Xbox Series X",
+        "genre": "Course"
+    },
+    {
+        "nom": "Gears 5",
+        "console": "Xbox Series X",
+        "genre": "TPS"
+    },
+    {
+        "nom": "Halo: The Master Chief Collection",
+        "console": "Xbox Series X",
+        "genre": "FPS"
+    },
+    {
+        "nom": "Microsoft Flight Simulator",
+        "console": "Xbox Series X",
+        "genre": "Simulation"
+    },
+    {
+        "nom": "Psychonauts 2",
+        "console": "Xbox Series X",
+        "genre": "Plateforme"
+    },
+    {
+        "nom": "Hellblade: Senua's Sacrifice",
+        "console": "Xbox Series X",
+        "genre": "Action-Aventure"
+    },
+    {
+        "nom": "Ori and the Will of the Wisps",
+        "console": "Xbox Series X",
+        "genre": "Plateforme"
+    },
+    {
+        "nom": "Sea of Thieves",
+        "console": "Xbox Series X",
+        "genre": "Action-Aventure"
+    },
+    {
+        "nom": "State of Decay 2",
+        "console": "Xbox Series X",
+        "genre": "Survival"
+    },
+    {
+        "nom": "FIFA 23",
+        "console": "Xbox Series X",
+        "genre": "Sports"
+    },
+    {
+        "nom": "Call of Duty: Modern Warfare II",
+        "console": "Xbox Series X",
+        "genre": "FPS"
+    },
+    {
+        "nom": "Assassin's Creed Valhalla",
+        "console": "Xbox Series X",
+        "genre": "RPG"
+    },
+    {
+        "nom": "Red Dead Redemption 2",
+        "console": "Xbox Series X",
+        "genre": "Action-Aventure"
+    },
+    {
+        "nom": "Cyberpunk 2077",
+        "console": "Xbox Series X",
+        "genre": "RPG"
+    },
+    {
+        "nom": "The Witcher 3: Wild Hunt",
+        "console": "Xbox Series X",
+        "genre": "RPG"
+    },
+    {
+        "nom": "Grand Theft Auto V",
+        "console": "Xbox Series X",
+        "genre": "Action-Aventure"
+    },
+    {
+        "nom": "Hogwarts Legacy",
+        "console": "Xbox Series X",
+        "genre": "RPG"
+    },
+    {
+        "nom": "Star Wars Jedi: Survivor",
+        "console": "Xbox Series X",
+        "genre": "Action-Aventure"
+    },
+    {
+        "nom": "Diablo IV",
+        "console": "Xbox Series X",
+        "genre": "RPG"
+    },
+    {
+        "nom": "God of War (2018)",
+        "console": "PlayStation 4",
+        "genre": "Action-Aventure"
+    },
+    {
+        "nom": "Marvel's Spider-Man",
+        "console": "PlayStation 4",
+        "genre": "Action-Aventure"
+    },
+    {
+        "nom": "The Last of Us Part II",
+        "console": "PlayStation 4",
+        "genre": "Action-Aventure"
+    },
+    {
+        "nom": "Ghost of Tsushima",
+        "console": "PlayStation 4",
+        "genre": "Action-Aventure"
+    },
+    {
+        "nom": "Persona 5 Royal",
+        "console": "PlayStation 4",
+        "genre": "RPG"
+    },
+    {
+        "nom": "Final Fantasy VII Remake",
+        "console": "PlayStation 4",
+        "genre": "RPG"
+    },
+    {
+        "nom": "Bloodborne",
+        "console": "PlayStation 4",
+        "genre": "RPG"
+    },
+    {
+        "nom": "Uncharted 4: A Thief's End",
+        "console": "PlayStation 4",
+        "genre": "Action-Aventure"
+    },
+    {
+        "nom": "Detroit: Become Human",
+        "console": "PlayStation 4",
+        "genre": "Aventure"
+    },
+    {
+        "nom": "Horizon Zero Dawn",
+        "console": "PlayStation 4",
+        "genre": "Action-Aventure"
+    },
+    {
+        "nom": "Days Gone",
+        "console": "PlayStation 4",
+        "genre": "Action-Aventure"
+    },
+    {
+        "nom": "Resident Evil 2 Remake",
+        "console": "PlayStation 4",
+        "genre": "Survival-Horreur"
+    },
+    {
+        "nom": "Resident Evil 3 Remake",
+        "console": "PlayStation 4",
+        "genre": "Survival-Horreur"
+    },
+    {
+        "nom": "Monster Hunter: World",
+        "console": "PlayStation 4",
+        "genre": "Action"
+    },
+    {
+        "nom": "Dragon Ball FighterZ",
+        "console": "PlayStation 4",
+        "genre": "Combat"
+    },
+    {
+        "nom": "Street Fighter V",
+        "console": "PlayStation 4",
+        "genre": "Combat"
+    },
+    {
+        "nom": "Tekken 7",
+        "console": "PlayStation 4",
+        "genre": "Combat"
+    },
+    {
+        "nom": "FIFA 23",
+        "console": "PlayStation 4",
+        "genre": "Sports"
+    },
+    {
+        "nom": "Call of Duty: Modern Warfare II",
+        "console": "PlayStation 4",
+        "genre": "FPS"
+    },
+    {
+        "nom": "Assassin's Creed Valhalla",
+        "console": "PlayStation 4",
+        "genre": "RPG"
+    },
+    {
+        "nom": "Red Dead Redemption 2",
+        "console": "PlayStation 4",
+        "genre": "Action-Aventure"
+    },
+    {
+        "nom": "Cyberpunk 2077",
+        "console": "PlayStation 4",
+        "genre": "RPG"
+    },
+    {
+        "nom": "The Witcher 3: Wild Hunt",
+        "console": "PlayStation 4",
+        "genre": "RPG"
+    },
+    {
+        "nom": "Grand Theft Auto V",
+        "console": "PlayStation 4",
+        "genre": "Action-Aventure"
+    },
+    {
+        "nom": "Hogwarts Legacy",
+        "console": "PlayStation 4",
+        "genre": "RPG"
+    },
+    {
+        "nom": "Star Wars Jedi: Fallen Order",
+        "console": "PlayStation 4",
+        "genre": "Action-Aventure"
+    },
+    {
+        "nom": "Diablo III",
+        "console": "PlayStation 4",
+        "genre": "RPG"
+    },
+    {
+        "nom": "Halo 5: Guardians",
+        "console": "Xbox One",
+        "genre": "FPS"
+    },
+    {
+        "nom": "Gears of War 4",
+        "console": "Xbox One",
+        "genre": "TPS"
+    },
+    {
+        "nom": "Forza Horizon 4",
+        "console": "Xbox One",
+        "genre": "Course"
+    },
+    {
+        "nom": "Halo Wars 2",
+        "console": "Xbox One",
+        "genre": "Stratégie"
+    },
+    {
+        "nom": "Ori and the Blind Forest",
+        "console": "Xbox One",
+        "genre": "Plateforme"
+    },
+    {
+        "nom": "Cuphead",
+        "console": "Xbox One",
+        "genre": "Plateforme"
+    },
+    {
+        "nom": "Sea of Thieves",
+        "console": "Xbox One",
+        "genre": "Action-Aventure"
+    },
+    {
+        "nom": "PlayerUnknown's Battlegrounds",
+        "console": "Xbox One",
+        "genre": "Battle Royale"
+    },
+    {
+        "nom": "Fortnite",
+        "console": "Xbox One",
+        "genre": "Battle Royale"
+    },
+    {
+        "nom": "Minecraft",
+        "console": "Xbox One",
+        "genre": "Bac à sable"
+    },
+    {
+        "nom": "FIFA 23",
+        "console": "Xbox One",
+        "genre": "Sports"
+    },
+    {
+        "nom": "Call of Duty: Modern Warfare II",
+        "console": "Xbox One",
+        "genre": "FPS"
+    },
+    {
+        "nom": "Assassin's Creed Valhalla",
+        "console": "Xbox One",
+        "genre": "RPG"
+    },
+    {
+        "nom": "Red Dead Redemption 2",
+        "console": "Xbox One",
+        "genre": "Action-Aventure"
+    },
+    {
+        "nom": "Cyberpunk 2077",
+        "console": "Xbox One",
+        "genre": "RPG"
+    },
+    {
+        "nom": "The Witcher 3: Wild Hunt",
+        "console": "Xbox One",
+        "genre": "RPG"
+    },
+    {
+        "nom": "Grand Theft Auto V",
+        "console": "Xbox One",
+        "genre": "Action-Aventure"
+    },
+    {
+        "nom": "Super Mario 3D Land",
+        "console": "Nintendo 3DS",
+        "genre": "Plateforme"
+    },
+    {
+        "nom": "Mario Kart 7",
+        "console": "Nintendo 3DS",
+        "genre": "Course"
+    },
+    {
+        "nom": "The Legend of Zelda: Ocarina of Time 3D",
+        "console": "Nintendo 3DS",
+        "genre": "Action-Aventure"
+    },
+    {
+        "nom": "Pokémon X",
+        "console": "Nintendo 3DS",
+        "genre": "RPG"
+    },
+    {
+        "nom": "Pokémon Y",
+        "console": "Nintendo 3DS",
+        "genre": "RPG"
+    },
+    {
+        "nom": "Super Smash Bros. for Nintendo 3DS",
+        "console": "Nintendo 3DS",
+        "genre": "Combat"
+    },
+    {
+        "nom": "Animal Crossing: New Leaf",
+        "console": "Nintendo 3DS",
+        "genre": "Simulation"
+    },
+    {
+        "nom": "Luigi's Mansion: Dark Moon",
+        "console": "Nintendo 3DS",
+        "genre": "Aventure"
+    },
+    {
+        "nom": "Fire Emblem Awakening",
+        "console": "Nintendo 3DS",
+        "genre": "Stratégie"
+    },
+    {
+        "nom": "Fire Emblem Fates",
+        "console": "Nintendo 3DS",
+        "genre": "Stratégie"
+    },
+    {
+        "nom": "Sonic the Hedgehog 2",
+        "console": "Sega Genesis",
+        "genre": "Plateforme"
+    },
+    {
+        "nom": "Sonic the Hedgehog 3",
+        "console": "Sega Genesis",
+        "genre": "Plateforme"
+    },
+    {
+        "nom": "Streets of Rage 2",
+        "console": "Sega Genesis",
+        "genre": "Beat'em up"
+    },
+    {
+        "nom": "Streets of Rage 3",
+        "console": "Sega Genesis",
+        "genre": "Beat'em up"
+    },
+    {
+        "nom": "Golden Axe",
+        "console": "Sega Genesis",
+        "genre": "Beat'em up"
+    },
+    {
+        "nom": "Phantasy Star IV",
+        "console": "Sega Genesis",
+        "genre": "RPG"
+    },
+    {
+        "nom": "Shining Force II",
+        "console": "Sega Genesis",
+        "genre": "Stratégie"
+    },
+    {
+        "nom": "Earthworm Jim",
+        "console": "Sega Genesis",
+        "genre": "Plateforme"
+    },
+    {
+        "nom": "Contra: Hard Corps",
+        "console": "Sega Genesis",
+        "genre": "Run and gun"
+    },
+    {
+        "nom": "Castlevania: Bloodlines",
+        "console": "Sega Genesis",
+        "genre": "Plateforme"
+    },
+    {
+        "nom": "The Sims 4",
+        "console": "PC Windows",
+        "genre": "Simulation"
+    },
+    {
+        "nom": "Civilization VI",
+        "console": "PC Windows",
+        "genre": "Stratégie"
+    },
+    {
+        "nom": "Stellaris",
+        "console": "PC Windows",
+        "genre": "Stratégie"
+    },
+    {
+        "nom": "Crusader Kings III",
+        "console": "PC Windows",
+        "genre": "Stratégie"
+    },
+    {
+        "nom": "Divinity: Original Sin 2",
+        "console": "PC Windows",
+        "genre": "RPG"
+    },
+    {
+        "nom": "Disco Elysium",
+        "console": "PC Windows",
+        "genre": "RPG"
+    },
+    {
+        "nom": "Hades",
+        "console": "PC Windows",
+        "genre": "Roguelike"
+    },
+    {
+        "nom": "Hollow Knight",
+        "console": "PC Windows",
+        "genre": "Metroidvania"
+    },
+    {
+        "nom": "Celeste",
+        "console": "PC Windows",
+        "genre": "Plateforme"
+    },
+    {
+        "nom": "Stardew Valley",
+        "console": "PC Windows",
+        "genre": "Simulation"
+    },
+    {
+        "nom": "Terraria",
+        "console": "PC Windows",
+        "genre": "Bac à sable"
+    },
+    {
+        "nom": "Portal 2",
+        "console": "PC Windows",
+        "genre": "Réflexion"
+    },
+    {
+        "nom": "Half-Life 2",
+        "console": "PC Windows",
+        "genre": "FPS"
+    },
+    {
+        "nom": "Left 4 Dead 2",
+        "console": "PC Windows",
+        "genre": "FPS"
+    },
+    {
+        "nom": "Team Fortress 2",
+        "console": "PC Windows",
+        "genre": "FPS"
+    },
+    {
+        "nom": "Counter-Strike: Global Offensive",
+        "console": "PC Windows",
+        "genre": "FPS"
+    },
+    {
+        "nom": "Valorant",
+        "console": "PC Windows",
+        "genre": "FPS"
+    },
+    {
+        "nom": "League of Legends",
+        "console": "PC Windows",
+        "genre": "MOBA"
+    },
+    {
+        "nom": "Dota 2",
+        "console": "PC Windows",
+        "genre": "MOBA"
+    },
+    {
+        "nom": "World of Warcraft",
+        "console": "PC Windows",
+        "genre": "MMORPG"
+    },
+    {
+        "nom": "Final Fantasy XIV",
+        "console": "PC Windows",
+        "genre": "MMORPG"
+    },
+    {
+        "nom": "Guild Wars 2",
+        "console": "PC Windows",
+        "genre": "MMORPG"
+    },
+    {
+        "nom": "Minecraft",
+        "console": "PC Windows",
+        "genre": "Bac à sable"
+    },
+    {
+        "nom": "Roblox",
+        "console": "PC Windows",
+        "genre": "Bac à sable"
+    },
+    {
+        "nom": "Among Us",
+        "console": "PC Windows",
+        "genre": "Party"
+    },
+    {
+        "nom": "Fall Guys: Ultimate Knockout",
+        "console": "PC Windows",
+        "genre": "Party"
+    },
+    {
+        "nom": "Rocket League",
+        "console": "PC Windows",
+        "genre": "Sports"
+    },
+    {
+        "nom": "FIFA 23",
+        "console": "PC Windows",
+        "genre": "Sports"
+    },
+    {
+        "nom": "Madden NFL 23",
+        "console": "PC Windows",
+        "genre": "Sports"
+    },
+    {
+        "nom": "NBA 2K23",
+        "console": "PC Windows",
+        "genre": "Sports"
+    },
+    {
+        "nom": "MLB The Show 23",
+        "console": "PC Windows",
+        "genre": "Sports"
+    },
+    {
+        "nom": "NomTest",
+        "console": "ConsoleTest",
+        "genre": "GenreTest"
     }
 ]
